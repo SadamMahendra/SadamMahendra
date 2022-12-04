@@ -1,6 +1,6 @@
 ### Hi 👋, I am Sadam Mahendra.
-???? I'm interested in Software
-???? How to reach me on 
+🌱 I'm interested in Software
+📫 How to reach me on 
 
 <a href="https://www.linkedin.com/in/muhammad-sadam-mahendra-850a2a233/" target="_blank">LinkedIn</a>,
 
