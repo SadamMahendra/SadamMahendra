@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadam Mahendra</h1>
 <h3 align="center">A passionate frontend and backend developer from indonesian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadammahendra&label=Profile%20views&color=0e75b6&style=flat" alt="sadammahendra" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadammahendra" alt="sadammahendra" /></a> </p>
 
 - 📫 How to reach me **sadam.mahendra@gmail.com**
